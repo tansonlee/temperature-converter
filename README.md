@@ -1,3 +1,3 @@
 # temperature-converter
 
-![](gif.temperature-converter.gif)
+![](gif/temperature-converter.gif)
