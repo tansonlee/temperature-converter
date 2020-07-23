@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Asap&display=swap');
+
+* {
+	padding: 0;
+	margin: 0px;
+	box-sizing: border-box;
+}
+
+body {
+	background-color: black;
+	font-family: Asap;
+}
+
+div {
+	height: 33.333vh;
+	position: relative;
+}
+
+p {
+	color: red;
+	font-size: 5em;
+	display: inline-block;
+	color: rgba(255, 127, 80, 0.24);
+	position: absolute;
+	top: 0px;
+}
+
+input[type="number"] {
+	height: 100%;
+	width: 90%;
+	background-color: black;
+	color: #e5e8b6;
+	font-size: 7em;
+	border: none;
+
+	text-align: center;
+	outline: none;
+}
+
+#celcius {
+	border-bottom: 4px solid whitesmoke;
+}
+
+#fahrenheit {
+	border-bottom: 4px solid whitesmoke;
+}
+
+::-webkit-input-placeholder {
+	color: rgba(255, 127, 80, 0.24);
+}
+
+::-moz-placeholder {
+	color: rgba(255, 127, 80, 0.24);
+}
+
+::-ms-input-placeholder {
+	color: rgba(255, 127, 80, 0.24);
+}
+
+/* B4C4AE, E5E8B6, A2ABAB */
